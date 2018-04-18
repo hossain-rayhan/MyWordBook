@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chocolate_50">#80AF8C58</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="plate_1">#B34D5434</color>
+    <color name="plate_2">#AF8C58</color>
+    <color name="plate_3">#FF8762</color>
+    <color name="plate_4">#D74808</color>
+    <color name="plate_5">#A8270A</color>
+    <color name="plate_6">#FFA42D</color>
+
+    <color name="plate_1_pressed">#664D5434</color>
+    <color name="plate_2_pressed">#CCAF8C58</color>
+    <color name="plate_3_pressed">#CCFF8762</color>
+    <color name="plate_4_pressed">#CCD74808</color>
+    <color name="plate_5_pressed">#CCA8270A</color>
+    <color name="plate_6_pressed">#CCFFA42D</color>
+
+</resources>
